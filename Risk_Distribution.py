@@ -9,9 +9,9 @@ from tabulate import tabulate
 # Define constants
 
 # Change the below constants according to your account
-SKYFLOW_VAULT_ENDPOINT = 'https://manage.skyflowapis.com/v1/vaults'
-SKYFLOW_SA_ENDPOINT = 'https://manage.skyflowapis.com/v1/serviceAccounts'
-SKYFLOW_LISTROLES_ENDPOINT = 'https://manage.skyflowapis.com/v1/roles'
+SKYFLOW_VAULT_ENDPOINT = '<vault-endpoint>'
+SKYFLOW_SA_ENDPOINT = '<service_accounts-endpoint>'
+SKYFLOW_LISTROLES_ENDPOINT = '<listroles-endpoint>'
 VAULT_OWNER_SA_CREDENTIALS = 'Bearer <bearer_token>'
 SKYFLOW_ACCOUNT_ID = '<account-id>'  # Replace Account ID with your Account ID
 SKYFLOW_VAULT_ID = '<vault-id>'  # Replace Vault ID with your Vault ID
